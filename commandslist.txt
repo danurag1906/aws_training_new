@@ -444,3 +444,5 @@ ls
 zip new.zip new.txt
 ls
 xming
+crontab
+crontab -e
