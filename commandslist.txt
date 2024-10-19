@@ -457,3 +457,4 @@ echo "hello"
 pwd
 ping google.com
 telnet google.com
+nslookup google.com
