@@ -429,3 +429,6 @@ ls
 cd ..
 git --version
 exit
+cls
+clear
+ls
