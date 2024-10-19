@@ -432,3 +432,5 @@ exit
 cls
 clear
 ls
+vi new.txt
+ls -l new.txt
