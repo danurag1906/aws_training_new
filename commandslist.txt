@@ -434,3 +434,7 @@ clear
 ls
 vi new.txt
 ls -l new.txt
+chmod 755 new.txt
+ls -l new.txt
+du -af
+du -ah
