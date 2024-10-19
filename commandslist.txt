@@ -449,3 +449,6 @@ crontab -e
 grep "hel" new.txt
 find "*.txt"
 find "*.txt" -print
+find /home/ec2-user -name "*.txt" -print
+.profile
+ls -a
