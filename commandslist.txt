@@ -440,3 +440,7 @@ du -af
 du -ah
 uname -a
 hostname
+ls
+zip new.zip new.txt
+ls
+xming
