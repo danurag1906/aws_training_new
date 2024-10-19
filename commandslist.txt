@@ -438,3 +438,5 @@ chmod 755 new.txt
 ls -l new.txt
 du -af
 du -ah
+uname -a
+hostname
