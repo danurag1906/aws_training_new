@@ -454,3 +454,4 @@ find /home/ec2-user -name "*.txt" -print
 ls -a
 vi .profile
 echo "hello"
+pwd
