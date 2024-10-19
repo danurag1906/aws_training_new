@@ -446,3 +446,6 @@ ls
 xming
 crontab
 crontab -e
+grep "hel" new.txt
+find "*.txt"
+find "*.txt" -print
