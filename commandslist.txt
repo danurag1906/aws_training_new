@@ -458,3 +458,5 @@ pwd
 ping google.com
 telnet google.com
 nslookup google.com
+vi new.txt
+awk '{print $2, $4}' new.txt
