@@ -455,3 +455,4 @@ ls -a
 vi .profile
 echo "hello"
 pwd
+ping google.com
