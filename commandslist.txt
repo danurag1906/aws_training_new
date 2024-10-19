@@ -428,3 +428,4 @@ cd aws_training
 ls
 cd ..
 git --version
+exit
