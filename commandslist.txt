@@ -469,3 +469,4 @@ find . -mtime -30 -type f -exec cp {} new_temp/ \;
 ls
 cd new_temp
 ls
+cd ..
