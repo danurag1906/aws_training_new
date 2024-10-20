@@ -489,3 +489,6 @@ cd ..
 cd environment
 source my_app/bin/activate
 cd my_app
+source env/bin/activate
+install fastapi
+python3 -m pip install fastapi
