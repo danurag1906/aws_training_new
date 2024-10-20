@@ -486,3 +486,6 @@ cd my_app
 ls
 source myenv/bin/activate
 cd ..
+cd environment
+source my_app/bin/activate
+cd my_app
