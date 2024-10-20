@@ -481,3 +481,8 @@ find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \;
 python -m venv my_app/env
 ls
 source myenv/bin/activate
+ls
+cd my_app
+ls
+source myenv/bin/activate
+cd ..
