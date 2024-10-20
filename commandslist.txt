@@ -473,3 +473,4 @@ cd ..
 ls -laS
 ls -laSh
 find . -type f -atime +365 -print 
+find . -type f -atime +365 -print | zip archive.zip -@
