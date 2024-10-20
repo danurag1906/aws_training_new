@@ -493,3 +493,4 @@ source env/bin/activate
 install fastapi
 python3 -m pip install fastapi
 pip install psycopg2-binary
+pip freeze | grep -v 'psycopg2\fastapi' | xargs -r pip uninstall -y
