@@ -470,3 +470,5 @@ ls
 cd new_temp
 ls
 cd ..
+ls -laS
+ls -laSh
