@@ -476,3 +476,4 @@ find . -type f -atime +365 -print
 find . -type f -atime +365 -print | zip archive.zip -@
 find . -type l -ls
 find . -maxdepth 1 -type l -ls
+find . -maxdepth 1 -type d -exec bash -c "echo -ne '{} '; ls '{}' | wc -l" \; |   awk '$NF>=100'
