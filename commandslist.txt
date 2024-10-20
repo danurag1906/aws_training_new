@@ -465,3 +465,7 @@ mkdir new_temp
 ls
 find . mtime -30 -type f
 find . -mtime -30 -type f
+find . -mtime -30 -type f -exec cp {} new_temp/ \;
+ls
+cd new_temp
+ls
